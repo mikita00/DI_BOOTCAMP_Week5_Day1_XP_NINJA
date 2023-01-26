@@ -1,0 +1,7 @@
+{
+  "name": "Exercise_2_Ionic_HTTP_Request",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Exercise_1_API_HTTP_Request",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
